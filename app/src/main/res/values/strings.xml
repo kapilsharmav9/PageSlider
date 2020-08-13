@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IntroOneTimeFirstTime</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Javatpoint!</string>
+    <string name="slide_1_desc">Women’s safety is a big concern which has been the most important topic till date. Women safety matters a lot whether at home, outside the home or working place.</string>
+
+    <string name="slide_2_title">Android</string>
+    <string name="slide_2_desc">Android is a mobile operating system developed by guglu.</string>
+
+</resources>
